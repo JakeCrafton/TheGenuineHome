@@ -1,0 +1,9 @@
+Black Box Code:
+<p style="padding: 10px; color: black; background-color: white; border: black 2px solid">Text</p>
+<p style="text-align: center; padding: 10px; color: black; background-color: white; border: black 2px solid"> Text</p>
+
+Bold Text:
+<strong>Text</strong>
+
+Font Size:
+Font-size: 17px
