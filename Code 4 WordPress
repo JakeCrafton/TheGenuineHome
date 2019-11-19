@@ -1,10 +1,16 @@
-Black Box Code:
+Create Black Box Code w/ Code-
 <p style="padding: 10px; color: black; background-color: white; border: black 2px solid">Text</p>
 <p style="text-align: center; padding: 10px; color: black; background-color: white; border: black 2px solid"> Text</p>
 
-Bold Text:
+Create Black Dotted Box w/ Code-
+<p style="padding: 10px; color: black; background-color: white; border: black 2px dotted">Text</p>
+<p style="text-align: center; padding: 10px; color: black; background-color: white; border: black 2px dotted"> Text</p>
+
+Bold Text w/ Code-
 <strong>Text</strong>
 
-Font Size:
+Change Font Size w/ Code-
 Font-size: 17px
 
+Change Font Style w Code1-
+Font-Style: italic
